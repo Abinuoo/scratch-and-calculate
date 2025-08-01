@@ -1,11 +1,7 @@
-import { Calculator } from "@/components/Calculator";
+import { FunLogin } from "@/components/FunLogin";
 
 const Index = () => {
-  return (
-    <div className="min-h-screen bg-background py-8 px-4">
-      <Calculator />
-    </div>
-  );
+  return <FunLogin />;
 };
 
 export default Index;
