@@ -1,73 +1,79 @@
-# Welcome to your Lovable project
 
-## Project info
+TEAM ROBO🎯
 
-**URL**: https://lovable.dev/projects/43d97129-4bb1-4abb-9300-bbe552a9a90f
 
-## How can I edit this code?
+## Basic Details
+### Team Name: TEAM ROBO
 
-There are several ways of editing your application.
 
-**Use Lovable**
+### Team Members
+- Team Lead: Abinu Alfred - RIT Kottayam
+- Member 2: Devang Shaji - RIT Kottayam
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/43d97129-4bb1-4abb-9300-bbe552a9a90f) and start prompting.
+### Project Description
+A useless login system where you must grimace at your webcam if you enter the wrong password. If you succeed, The Rock approves. If not, you get trolled. It’s a completely over-engineered prank login.
 
-Changes made via Lovable will be committed automatically to this repo.
+### The Problem (that doesn't exist)
+People who forget passwords are not judged harshly enough by their devices. There is no personal shame, no webcam judgment, no mockery.
 
-**Use your preferred IDE**
+### The Solution (that nobody asked for)
+Introducing the Grimace-Based Login System™. Enter wrong credentials, and your webcam will demand a ridiculous face. If not funny enough? Prepare to be clowned. If correct? The Rock raises an eyebrow and asks: "Are you sure?"
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Technical Details
+### Technologies/Components Used
+For Software:
+- Languages: HTML, CSS, JavaScript
+- Frameworks: None – raw and wild
+- Libraries:
+  o	face-api.js (for face & expression detection)
+- Tools:
+  o	VS Code
+  o	Webcam
+  o	Chrome DevTools
+  o	Spotify (for vibe checks)
+For Hardware:
+  •	Webcam (any potato cam will do)
+  •	A human face
+  •	Optional: AirPods to vibe to Rickroll privately
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
+### Implementation
+For Software:
+# Installation
+bash
+CopyEdit
+git clone https: https://github.com/Abinuoo/scratch-and-calculate.git
+cd eyebrow-protocol
+# Run
+Just open  https://lovable.dev/projects/43d97129-4bb1-4abb-9300-bbe552a9a90f in your browser.
+### Project Documentation
+For Software:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Screenshots (Add at least 3)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+# Diagrams
+![Workflow](Add your workflow/architecture diagram here)
+A beautiful flowchart showing how poor choices lead to camera activation.
 
-**Edit a file directly in GitHub**
+For Hardware:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+	@@ -67,7 +66,8 @@ For Hardware:
+*Add caption explaining connections*
 
-**Use GitHub Codespaces**
+![Schematic](Add your schematic diagram here)
+(Not applicable. But here's an emoji circuit instead:)
+😐 + 😠 + 🎥 + 🧠 = 😂
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+# Build Photos
+![Components](Add photo of your components here)
+	@@ -88,15 +88,13 @@ For Hardware:
+[Add any extra demo materials/links]
 
-## What technologies are used for this project?
+## Team Contributions
+•	Abinu Alfred: Facial recognition logic, camera access, final UI polish
+•	Devang Shaji: Wrote all the wrong passwords to test edge cases
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/43d97129-4bb1-4abb-9300-bbe552a9a90f) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
+Made with ❤️ at TinkerHub Useless Projects 
